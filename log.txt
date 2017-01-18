@@ -1,0 +1,103 @@
+===== New Command Tue Jan 17 2017 22:37:04 GMT-0600 (Central Standard Time) =====
+User Input: my-tweets 
+Tweet 1 I bet $20,000 on the Clemson money line and picked up $56,000. https://t.co/7mnfsa00Le Wed Jan 11 17:36:53 +0000 2017
+
+Tweet 2 Please RETWEET to vote for NBA superstar @Isaiah_Thomas to go to the All-Star game. I appreciate you all. Thank you… https://t.co/4310dIjxJL Sun Jan 08 20:29:25 +0000 2017
+
+Tweet 3 If you're following me, please RETWEET to vote for my brother, NBA superstar @Isaiah_Thomas to go to the All-Star g… https://t.co/ToEIfM0Yym Sun Jan 08 20:29:16 +0000 2017
+
+Tweet 4 Looking forward to touring the UK&amp;Europe in March 2017 for #undefeatedtour. 4 info https://t.co/RkPiGZJ0Ar… https://t.co/9km5cWrcDE Sat Jan 07 20:37:10 +0000 2017
+
+Tweet 5 https://t.co/JSBmvtHNaI Fri Jan 06 01:16:46 +0000 2017
+
+Tweet 6 https://t.co/onDK89FzKR Thu Jan 05 04:18:49 +0000 2017
+
+Tweet 7 https://t.co/JTD2s1WOzN Sun Jan 01 07:26:29 +0000 2017
+
+Tweet 8 Please read this important information https://t.co/20WzmPF80h https://t.co/vvA4oiVZRb Fri Dec 30 00:01:50 +0000 2016
+
+Tweet 9 RT @girlcollection: Please read this important information https://t.co/r5b8U4Uq2F https://t.co/FvzBMwgjXC Thu Dec 29 23:57:47 +0000 2016
+
+Tweet 10 RT @MayweatherPromo: .@FloydMayweather on @badoujack vs @jamesdegale1 title unification match in Brooklyn, New York on 1/14/17. #JackDegale… Thu Dec 29 08:04:32 +0000 2016
+
+Tweet 11 RT @GWR: .@FloydMayweather achieves three terrific record titles after his champion boxing career &gt; https://t.co/LuVCeLf4Kn https://t.co/X7… Wed Dec 21 09:54:51 +0000 2016
+
+Tweet 12 Go to https://t.co/BHWU9aixxp to buy your lady something nice. Wed Dec 21 03:11:06 +0000 2016
+
+Tweet 13 Live on Instagram right now. Go follow my page https://t.co/temX21M0Kc Wed Dec 21 03:07:52 +0000 2016
+
+Tweet 14 Every fighter in boxing should be wearing Grant Boxing Gloves.
+
+Follow:
+Twitter: @GrantElvis 
+IG: /grantworldwide… https://t.co/iRQIS33mT3 Mon Dec 19 05:17:09 +0000 2016
+
+Tweet 15 CAPTION THIS! Best caption wins $10,000.00.  The winner will be announced on Monday, Dec 19. Stay tuned ! #TMT https://t.co/7vVYTvUugp Thu Dec 15 05:06:45 +0000 2016
+
+Tweet 16 I'm so proud of you champ @badoujack
+
+Follow:
+Twitter: @badoujack
+Instagram: /badoujack 
+Facebook: badoujacktheripp… https://t.co/lEpcXYDV3D Wed Dec 14 22:32:20 +0000 2016
+
+Tweet 17 #TMTMusic on @younghollywood with me and my artist @sunnymalouf https://t.co/5kw6jJHiVS Wed Dec 14 17:55:10 +0000 2016
+
+Tweet 18 .@MayweatherPromo just signed this undefeated 130 lbs babyface assassin, Saul Rodriguez (@team_neno). 20-0-15 KO's.… https://t.co/Ov6KmIgfQK Mon Dec 12 23:56:32 +0000 2016
+
+Tweet 19 #TBT My two baby girls that I love more than anything in the world Jirah &amp; Iyanna https://t.co/SzGItUuWcr Thu Dec 08 23:43:24 +0000 2016
+
+Tweet 20 3/ and I look forward to visiting again real soon. #BreakForBimini #BiminiBliss https://t.co/d74XkDd60j Tue Dec 06 17:24:10 +0000 2016
+
+===== New Command Tue Jan 17 2017 22:37:33 GMT-0600 (Central Standard Time) =====
+User Input: movie-this the abyss 
+Title: The Abyss
+Year: 1989
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: A civilian diving team is enlisted to search for a lost nuclear submarine and face danger while encountering an alien aquatic species.
+Actors: Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester
+Rotten Tomatoes Rating: 7.2
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/abyss/
+
+===== New Command Tue Jan 17 2017 22:38:15 GMT-0600 (Central Standard Time) =====
+User Input: spotify-this-song hammer smashed face 
+Song: Hammer Smashed Face
+Album: Tomb Of The Mutilated
+Artist(s): Cannibal Corpse
+Preview URL: https://p.scdn.co/mp3-preview/3b709d8a0f07448e88db9bf5003e0c8ce5a5946e?cid=null
+
+===== New Command Tue Jan 17 2017 22:38:43 GMT-0600 (Central Standard Time) =====
+User Input: do-what-it-says 
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+===== New Command Tue Jan 17 2017 22:49:12 GMT-0600 (Central Standard Time) =====
+User Input: movie-this die hard 
+Title: Die Hard
+Year: 1988
+IMDB Rating: 8.2
+Country: USA
+Language: English, German, Italian
+Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+Rotten Tomatoes Rating: 8.4
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/die_hard/
+
+===== New Command Tue Jan 17 2017 22:50:23 GMT-0600 (Central Standard Time) =====
+User Input: spotify-this-song if 
+Song: If You Let Me
+Album: If You Let Me
+Artist(s): Sinead Harnett,GRADES
+Preview URL: https://p.scdn.co/mp3-preview/ac5fb087b160118684f4454a0faf7531b767add4?cid=null
+
+===== New Command Tue Jan 17 2017 22:50:50 GMT-0600 (Central Standard Time) =====
+User Input: spotify-this-song careless whisper 
+Song: Careless Whisper
+Album: Ladies And Gentlemen... The Best Of George Michael
+Artist(s): George Michael
+Preview URL: https://p.scdn.co/mp3-preview/75d3d091213d60d9f3ed2c0698b846177076b0d0?cid=null
+
